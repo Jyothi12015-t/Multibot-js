@@ -15,7 +15,7 @@
    Bot creates a place where the user can play the snake game , i.e user give the directions to snake like move forward,backward,left,right. When the Snake hits itself or it crosses the Limited bounderies then it quit from game.Later it displays the Score of the User.
 
 # Block-Diagram
-  ![Block_Diagram](https://raw.githubusercontent.com/Jyothi12015-t/Multibot/main/project1.png)
+  ![Block_Diagram](https://raw.githubusercontent.com/Jyothi12015-t/Multibot-js/main/block-dia-web.png)
   
   
 # YOUTUBE - Video
