@@ -9,7 +9,7 @@
   This Bot can do multiple tasks as its Master trained.
 
 ### BMI
-   It can find the BodyMassIndex by taking the user input like height,weight then it Calculate the BMI of a person ,shows the status and also suggest the user to the best diet for good health.
+   It can find the BodyMassIndex by taking the user input like Height,Weight then it Calculate the BMI of a person ,shows the status and also suggest the user to the best diet for good health.
 
 ### Snake_Game
    Bot creates a place where the user can play the snake game , i.e user give the directions to snake like move forward,backward,left,right. When the Snake hits itself or it crosses the Limited bounderies then it quit from game.Later it displays the Score of the User.
