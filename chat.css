@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://gameranx.com/wp-content/uploads/2017/03/Snake-Pass-4K-Wallpaper-2.jpg");
+    background-size: cover;
+    width:100%;
+}
+.botmessage{
+    background:rgb(112, 223, 39);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display:inline-block;
+    font-size: large;
+}
+.usermessage{
+    background:rgb(221, 185, 23);
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 10px;
+    display:inline-block;
+    font-size: large;
+    
+}
+.userblock{
+    text-align:right;
+}
+
+#box{
+    background-image:url("https://wallpapercave.com/wp/nkuZyrq.jpg") ;
+    opacity:.6;
+    width:40%;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#inputbox{
+    width:100%;
+    border-radius: 10px;
+    border-width: 5px;
+    padding-left: 20px;
+    outline:none;
+}
+
