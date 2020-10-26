@@ -18,7 +18,6 @@
   ![Block_Diagram](https://raw.githubusercontent.com/Jyothi12015-t/Multibot/main/project1.png)
   
 # YOUTUBE - Video
-[![YOUTUBE-LINK]((https://img.youtube.com/vi/https://youtu.be/rQWC4L57XqM/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/rQWC4L57XqM)
-)
+[![YOUTUBE-LINK](https://img.youtube.com/vi/rQWC4L57XqM/0.jpg)](https://www.youtube.com/watch?v=rQWC4L57XqM)
 
 
